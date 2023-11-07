@@ -1,11 +1,11 @@
-### Hi there 👋, Deevesh Kumar
+### Hi there 👋, Sarvesh Kumar
 #### I am a student.
 
 ![272529063-73ceb5b0-d71e-41b4-8a3a-9c197864257f (1)](https://github.com/deevesh11nov/deevesh11nov/assets/127090783/29d05c94-6bcc-42d8-90fa-ebd5078db643)
 
 
 
-I am currently taking a web developer course from Coding Ninja. I have a strong command of the Java language, data structures, HTML, JavaScript and React. Currently, I am studying backend (Node.js, MongoDB, Firebase, etc.).You can check out my Linkedin at https://www.linkedin.com/in/deevesh-kumar-886189218/
+I am currently taking a web developer course from Almabetter. I have a strong command of the Java language, data structures, HTML, JavaScript and React. Currently, I am studying backend (Node.js, MongoDB, Firebase, etc.).You can check out my Linkedin at https://www.linkedin.com/in/deevesh-kumar-886189218/
 
 Skills: Java, DSA, HTML, CSS, Javascript, Mongoose, Nodejs, Express, APIs, React, Firebase.
 

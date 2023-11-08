@@ -5,7 +5,7 @@
 
 
 
-I am currently taking a web developer course from Almabetter. I have a strong command of the Java language, data structures, HTML, JavaScript and React. Currently, I am studying backend (Node.js, MongoDB, Firebase, etc.).You can check out my Linkedin at https://www.linkedin.com/in/deevesh-kumar-886189218/
+I am currently taking a web developer course from Almabetter. I have a strong command of the Java language, data structures, HTML, JavaScript and React. Currently, I am studying backend (Node.js, MongoDB, Firebase, etc.).You can check out my Linkedin at https://www.linkedin.com/in/sarvesh-kumar-6751391a9/
 
 Skills: Java, DSA, HTML, CSS, Javascript, Mongoose, Nodejs, Express, APIs, React, Firebase.
 
